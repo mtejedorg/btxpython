@@ -1,0 +1,1 @@
+USAGE: python translator.py <number>
